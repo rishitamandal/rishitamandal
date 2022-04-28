@@ -1,3 +1,4 @@
+![read  learn  create](https://user-images.githubusercontent.com/92074430/165764904-23370b55-b299-4903-9c86-3d9d73daa91e.png)
 <h1 align="center">Hi 👋, I'm Rishita Mandal</h1>
 <h3 align="center">A passionate Web(MERN) developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif?cid=ecf05e47clrsbu6mm9a2r1dciptilgvevhjxatel3eh05xbm&rid=giphy.gif&ct=g">
